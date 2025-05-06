@@ -6,7 +6,7 @@
 -  Curiosidades: estagiario de organização de eventos.
 -  Habilidades: espanhol, assistente administrativo, robótica, desenvolvimento de sistemas e informática.
 -  pontos a melhorar: perfeccionismo.
-- 
+- habilidades há desenvolver: francês, russo, engenharia eletrica e mecânica.
 
 <!---
 Eduardo13-cell/Eduardo13-cell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
